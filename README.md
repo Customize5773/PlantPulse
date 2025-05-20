@@ -146,7 +146,7 @@ Use `Serial.println(analogRead(SOIL_PIN))` to get raw values.
 
 | Dashboard Example                             | Circuit Diagram                        |
 | --------------------------------------------- | -------------------------------------- |
-| ![Dashboard](assets/dashboard_screenshot.png) | ![Circuit](assets/circuit_diagram.png) |
+| ![Dashboard](https://tutorials-raspberrypi.com/wp-content/uploads/Smart-Agriculture-System-Dashboard.webp) | Coming soon |
 
 ---
 
