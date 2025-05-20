@@ -60,7 +60,7 @@ Sensors ──> ESP32 ──> Blynk Cloud ──> Mobile Dashboard
 
 ---
 
-![System Architecture](https://github.com/user-attachments/assets/09677f21-1fa6-4db0-b8b9-aea9f5188b04)
+![System Architecture](https://github.com/Customize5773/PlantPulse/tree/main/image)
 
 ---
 
